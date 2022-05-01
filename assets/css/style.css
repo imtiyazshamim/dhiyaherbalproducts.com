@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: #18d26e;
   transition: 0.5s;
 }
 
@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #007bff;
+  border-top: 6px solid #18d26e;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-nav a:hover, .main-nav .active > a, .main-nav li:hover > a {
-  color: #007bff;
+  color: #18d26e;
   text-decoration: none;
 }
 
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-nav .drop-down ul a:hover, .main-nav .drop-down ul .active > a, .main-nav .drop-down ul li:hover > a {
-  color: #007bff;
+  color: #18d26e;
 }
 
 .main-nav .drop-down > a:after {
@@ -672,17 +672,17 @@ section {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #007bff;
+  border: 2px solid #18d26e;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #007bff;
+  color: #18d26e;
   font-size: 24px;
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #007bff;
+  background: #18d26e;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -782,7 +782,7 @@ section {
   padding: 6px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #007bff;
+  color: #18d26e;
   border-radius: 50px;
   text-transform: uppercase;
   background: #ecf5ff;
@@ -791,7 +791,7 @@ section {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #18d26e;
   color: #fff;
 }
 
@@ -845,7 +845,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 a:hover {
-  color: #007bff;
+  color: #18d26e;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info p {
@@ -863,7 +863,7 @@ section {
   text-align: center;
   width: 36px;
   height: 36px;
-  background: #007bff;
+  background: #18d26e;
   border-radius: 50%;
   margin: 10px 4px 0 4px;
 }
@@ -921,7 +921,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #007bff !important;
+  background-color: #18d26e !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1055,7 +1055,7 @@ section {
 }
 
 #testimonials .owl-dot.active {
-  background-color: #007bff;
+  background-color: #18d26e;
 }
 
 /* Team Section
@@ -1127,7 +1127,7 @@ section {
 }
 
 #team .member .social a:hover {
-  color: #007bff;
+  color: #18d26e;
 }
 
 #team .member .social i {
